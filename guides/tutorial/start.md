@@ -12,7 +12,7 @@ Before you start, it's a good idea to have some background into GraphQL in gener
 
 ## The Example
 
- The tutorial expects you to have a properly set-up [Phoenix application](https://hexdocs.pm/phoenix/installation.html) with [absinthe](https://hex.pm/packages/absinthe) and [absinthe_plug](https://hex.pm/packages/absinthe_plug) added to the dependencies.
+<span>The tutorial expects you to have a properly set-up [Phoenix application](https://hexdocs.pm/phoenix/installation.html)</span><span> with [absinthe](https://hex.pm/packages/absinthe)</span> and [absinthe_plug](https://hex.pm/packages/absinthe_plug) added to the dependencies.
 
 >  If you'd like to cheat, you can find the finished code for the tutorial
 >  in the [Absinthe Example](https://github.com/absinthe-graphql/absinthe_tutorial)
